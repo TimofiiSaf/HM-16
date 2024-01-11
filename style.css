@@ -1,0 +1,10 @@
+.bg-box {
+  height: 900px;
+  width: auto;
+  background-color: green;
+  background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),
+    url();
+  background-repeat: no-repeat, repeat-x, repeat-x;
+  background-position: center;
+  background-size: 400px, 200px;
+}
