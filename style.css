@@ -2,13 +2,10 @@
   height: 900px;
   width: auto;
   background-color: green;
-  background-image: url("https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg");
-  background-repeat: repeat-x;
-  background-repeat: repeat-y;
-  background-repeat: no-repeat;
-  background-size: 400px, 200px;
-  background-position: center;
-  background-image: url("./img/green-png-44873.png");
-  background-repeat: repeat-x;
-  background-position: bottom;
+  background-image: url("https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg"),
+    url("./img/green-png-44873.png"), url("./img/lamp-png-34914.png"),
+    url("./img/ezhik.png"), url("./img/donut.png");
+  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+  background-size: 400px, 200px, 50px, 50px, 50px;
+  background-position: center, bottom, top left, left bottom, right;
 }
